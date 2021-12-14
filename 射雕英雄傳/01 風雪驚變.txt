@@ -1,6 +1,31 @@
+tɐi6 jɐt1 wuːy4 fʊŋ1 wɐn4 gɪŋ1 piːn3
 第一回　風雪驚變
 
-　　錢塘江浩浩江水，日日夜夜無窮無休地從兩浙西路臨安府牛家村邊繞過，東流入海。江畔一排數十株烏桕樹，葉子似火燒般紅，正是八月天時。村前村後的野草剛起始變黃，一抹斜陽映照之下，更增了幾分蕭索。兩株大松樹下圍著一堆村民，男男女女和十幾個小孩，正自聚精會神地聽著一個瘦削的老者說話。
+t͡sʰiːn4 tʰɔːŋ4 kɔːŋ1 hou4 hou4 kɔːŋ1 sɵy2
+錢塘江浩浩江水，
+
+
+日日夜夜無窮無休地從兩浙西路臨安府牛家村邊繞過，
+
+東流入海。
+
+江畔一排數十株烏桕樹，
+
+葉子似火燒般紅，
+
+正是八月天時。
+
+村前村後的野草剛起始變黃，
+
+一抹斜陽映照之下，
+
+更增了幾分蕭索。
+
+兩株大松樹下圍著一堆村民，
+
+男男女女和十幾個小孩，
+
+正自聚精會神地聽著一個瘦削的老者說話。
 
 　　那說話人五十來歲年紀，一件青布長袍早洗得褪成了藍灰帶白。只聽他兩片梨花木板碰了幾下，左手中竹棒在一面小羯鼓上敲起得得連聲。唱道：
 
@@ -147,3 +172,27 @@
 
 ‘’侂裏雞甚麼儘
 http://www.dushu369.com/wuxiaxiaoshuo/Jinyong/sdyxz/
+m 媽	n[A] 拿			ŋ[A] 牙		
+Stop	plain	p 巴	t 打	t͡s 炸		k 加	kʷ[B] 瓜	(ʔ)[C] 亞
+aspirated	pʰ 怕	tʰ 他	t͡sʰ 查		kʰ 卡	kʷʰ[B] 跨	
+Fricative	f 花		s 沙				h 哈
+Approximant		l[A] 啦		j[B] 也		w[B] 話	
+
+/ɪ/	/iː/		/yː/	 	/ʊ/	/uː/
+Mid	/e/	/ɛː/	/ɵ/	/œː/	 	/o/	/ɔː/
+Open	 	 	/ɐ/	/aː/	
+
+aː 沙	ɐ[note]	ɔː 疏	œː 鋸	ɛː 些	iː 詩	uː 夫	yː 書	
+Diphthong
+(Semivowel)	/i/,
+/y/	aːi 街	ɐi 雞	ɔːy 愛	ɵy 水	ei 你		uːy 會	
+/u/	aːu 敎	ɐu 夠	ou 好		ɛːu 掉[note]	iːu 了		
+Nasal	/m/	aːm 衫	ɐm 深			ɛːm 舐[note]	iːm 點			m̩ 唔
+/n/	aːn 山	ɐn 新	ɔːn 看	ɵn 準	ɛːn[note]	iːn 見	uːn 歡	yːn 遠	
+/ŋ/	aːŋ 橫	ɐŋ 宏	ɔːŋ 方	œːŋ 傷	ɛːŋ 鏡	ɪŋ 敬	ʊŋ 風		ŋ̩ 五
+Checked	/p/	aːp 插	ɐp 輯			ɛːp 夾[note]	iːp 接			
+/t/	aːt 達	ɐt 突	ɔːt 渴	œːt[note]   ɵt 出	ɛːt[note]	iːt 結	uːt 沒	yːt 血
+/k/	aːk 百	ɐk 北	ɔːk 國	œːk 著	ɛːk 錫	ɪk 亦	ʊk 六	
+
+https://en.wikipedia.org/wiki/Cantonese_phonology
+https://en.wikipedia.org/wiki/Help:IPA/Cantonese
