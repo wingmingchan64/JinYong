@@ -1,10 +1,10 @@
 tɐi6 jɐt1 wuːy4 fʊŋ1 syːt3 gɪŋ1 piːn3
 第一回　風雪驚變
 
-t͡sʰiːn4 tʰɔːŋ4 kɔːŋ1 hou4 hou4 kɔːŋ1 sɵy2
+tsʰiːn4 tʰɔːŋ4 kɔːŋ1 hou6 hou6 kɔːŋ1 sɵy2
 錢塘江浩浩江水，
 
-
+jɐt6 jɐt6 jɛː6 jɛː6 mou4 kʰʊŋ4 mou4 jɐu1 tei6 tsʰʊŋ4 lœːŋ5 tsiːt3 sɐi1 lou6 lɐm4 ɔːn1 fuː2 ŋɐu4 ka1 tsʰyːn1 piːn1 jiːu2 kʷɔː3
 日日夜夜無窮無休地從兩浙西路臨安府牛家村邊繞過，
 
 東流入海。
@@ -172,11 +172,11 @@ t͡sʰiːn4 tʰɔːŋ4 kɔːŋ1 hou4 hou4 kɔːŋ1 sɵy2
 
 ‘’侂裏雞甚麼儘
 http://www.dushu369.com/wuxiaxiaoshuo/Jinyong/sdyxz/
-m 媽	n[A] 拿			ŋ[A] 牙		
-Stop	plain	p 巴	t 打	t͡s 炸		k 加	kʷ[B] 瓜	(ʔ)[C] 亞
-aspirated	pʰ 怕	tʰ 他	t͡sʰ 查		kʰ 卡	kʷʰ[B] 跨	
-Fricative	f 花		s 沙				h 哈
-Approximant		l[A] 啦		j[B] 也		w[B] 話	
+m, n, ŋ	
+p, t, ts, k, kʷ(ʔ)[C]
+pʰ, tʰ, tsʰ, kʰ, kʷʰ	
+f, s, h 
+l, j, w
 
 /ɪ/	/iː/		/yː/	 	/ʊ/	/uː/
 Mid	/e/	/ɛː/	/ɵ/	/œː/	 	/o/	/ɔː/
@@ -184,7 +184,7 @@ Open	 	 	/ɐ/	/aː/
 
 aː 沙	ɐ[note]	ɔː 疏	œː 鋸	ɛː 些	iː 詩	uː 夫	yː 書	
 Diphthong
-(Semivowel)	/i/,
+/i/,
 /y/	aːi 街	ɐi 雞	ɔːy 愛	ɵy 水	ei 你		uːy 會	
 /u/	aːu 敎	ɐu 夠	ou 好		ɛːu 掉[note]	iːu 了		
 Nasal	/m/	aːm 衫	ɐm 深			ɛːm 舐[note]	iːm 點			m̩ 唔
