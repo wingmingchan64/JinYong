@@ -42,10 +42,10 @@ ak                 aːk                     百
 ei                 ei                      你
 ɛu                 ɛːu                     掉 (tiːu6 → tɛu6)
 ɛm                 ɛːm                     舐 (lɛːm2)
-ɛn                 ɛːn                     靚 （colloquial， ŋ → n）
+ɛn                 ɛːn                     靚 (colloquial， ŋ → n)
 ɛŋ                 ɛːŋ                     靚
 ɛp                 ɛːp                     夾 (kɛːp6)
-ɛt                 ɛːt                     錫 （colloquial， k → t）
+ɛt                 ɛːt                     錫 (colloquial， k → t)
 ɛk                 ɛːk                     錫
 i                  iː                      意
 iu                 iːu                     要
@@ -59,9 +59,9 @@ ou                 ou                      奧
 ɔ                  ɔː                      我
 ɔy                 ɔːy                     哀
 œ                  œː                      靴
-œn                 œːn                     傷 （colloquial， ŋ → n）
+œn                 œːn                     傷 (colloquial， ŋ → n)
 œŋ                 œːŋ                     傷
-œt                 œːt                     卓 （colloquial， k → t）
+œt                 œːt                     卓 (colloquial， k → t)
 œk                 œːk                     卓
 ɵ                  ɵ                       出
 ɵy                 ɵy                      去
